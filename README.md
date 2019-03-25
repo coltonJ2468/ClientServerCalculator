@@ -6,14 +6,22 @@ decreased. The thread pool fills itself with running threads that check the requ
 clients and then wait for the client to enter arithmetic operations to solve.
 
 # How To Compile and Run
-To Compile Server: cd into sever
+To Compile Server: 
 
-	    	   javac CapitalizeServer.java
+	cd into sever
+
+	javac CapitalizeServer.java
 		   
-To Run Server: java CapitalizeServer
+To Run Server: 
 
-To Compile Client: cd into client
+	java CapitalizeServer
 
-		   javac CapitalizeClient.java
+To Compile Client: 
+
+	cd into client
+
+	javac CapitalizeClient.java
 		   
-To Run Client: java CapitalizeClient
+To Run Client: 
+
+	java CapitalizeClient
