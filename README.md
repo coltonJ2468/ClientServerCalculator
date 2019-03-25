@@ -7,8 +7,13 @@ clients and then wait for the client to enter arithmetic operations to solve.
 
 # How To Compile and Run
 To Compile Server: cd into sever
+
 	    	   javac CapitalizeServer.java
+		   
 To Run Server: java CapitalizeServer
+
 To Compile Client: cd into client
+
 		   javac CapitalizeClient.java
+		   
 To Run Client: java CapitalizeClient
